@@ -26,6 +26,8 @@ publication_types:
   - "6"
 authors:
   - Alvaro González-Castellanos
+  - DavidPozo
+  - AldoBischi
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -52,7 +54,7 @@ image:
   preview_only: false
 date: 2021-10-22T11:43:09.943Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

@@ -25,12 +25,10 @@ url_pdf: ""
 publication_types:
   - "6"
 authors:
-  - Alvaro González-Castellanos
-  - DavidPozo
-  - AldoBischi
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - admin
+  - David Pozo
+  - Aldo Bischi
+author_notes: []
 publication: In *Handbook of Optimization in Electric Power Distribution Systems*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -43,7 +41,7 @@ url_video: ""
 title: Distribution Power System Operation with Energy Storage and Renewable
   Generation Uncertainty
 subtitle: Handbook of Optimization in Electric Power Distribution Systems
-doi: ""
+doi: 10.1007/978-3-030-36115-0_6
 featured: true
 tags: []
 projects:

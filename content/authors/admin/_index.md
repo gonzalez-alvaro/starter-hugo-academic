@@ -5,6 +5,7 @@ avatar_filename: profile-pic.jpg
 bio: My research interests include stochastic optimization, energy economics and
   energy systems integration.
 interests:
+  - Energy Systems Flexibility
   - Stochastic optimization
   - Energy economics
   - Energy systems integration.

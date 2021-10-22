@@ -20,7 +20,7 @@ abstract: "The need for secure and flexible operation of distributed power
   in comparison with the existing constant efficiency approach. The proposed
   energy storage models are computationally compared on a modified IEEE 33-bus
   electric distribution system."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "6"
@@ -30,9 +30,7 @@ authors:
   - Aldo Bischi
 author_notes: []
 publication: In *Handbook of Optimization in Electric Power Distribution Systems*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -43,11 +41,15 @@ title: Distribution Power System Operation with Energy Storage and Renewable
 subtitle: Handbook of Optimization in Electric Power Distribution Systems
 doi: 10.1007/978-3-030-36115-0_6
 featured: true
-tags: []
+tags:
+  - Energy storage
+  - Renewable generation
+  - Uncertainty
+  - Distribution systems
 projects:
-  - example
+  - energystorage
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2021-10-22T11:43:09.943Z
@@ -56,13 +58,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

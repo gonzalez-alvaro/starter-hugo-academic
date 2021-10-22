@@ -27,13 +27,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Engineering Systems
-      institution: Skolkovo Institute of Science and Technology
+      institution: Skolkovo Institute of Science and Technology (Russia)
       year: 2021
     - course: M.Sc. in Power Engineering
-      institution: Skolkovo Institute of Science and Technology
+      institution: Skolkovo Institute of Science and Technology (Russia)
       year: 2017
     - course: B.Sc. in Electrical Engineering
-      institution: Skolkovo Institute of Science and Technology
+      institution: Universidad del Norte (Colombia)
       year: 2015
 email: alvaro.gonzalez@skolkovotech.ru
 superuser: true
@@ -41,4 +41,4 @@ highlight_name: true
 ---
 I obtained my Ph.D. in Engineering Systems at Skoltech in 2021 with a thesis titled {{< staticref "https://www.skoltech.ru/app/data/uploads/2021/10/thesis2.pdf" "newtab" >}}Flexibility Characterization in Power Systems{{< /staticref >}}.  My main interest lies in developing new mathematical optimization methods for energy systems problems. I studies the optimal scheduling and planning of energy systems flexibility under uncertainty.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}

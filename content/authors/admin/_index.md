@@ -2,8 +2,8 @@
 title: Alvaro González
 role: ""
 avatar_filename: profile-pic.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include stochastic optimization, energy economics and
+  energy systems integration.
 interests:
   - Artificial Intelligence
   - Computational Linguistics

@@ -39,6 +39,6 @@ email: alvaro.gonzalez@skolkovotech.ru
 superuser: true
 highlight_name: true
 ---
-I obtained my Ph.D. in Engineering Systems at Skoltech in 2021 with a thesis titled {{< staticref "https://www.skoltech.ru/app/data/uploads/2021/10/thesis2.pdf" "newtab" >}}Flexibility Characterization in Power Systems{{< /staticref >}}.  My main interest lies in developing new mathematical optimization methods for energy systems problems. I studies the optimal scheduling and planning of energy systems flexibility under uncertainty.
+<div style="text-align: justify"> I obtained my Ph.D. in Engineering Systems at Skoltech in 2021 with a thesis titled {{< staticref "https://www.skoltech.ru/app/data/uploads/2021/10/thesis2.pdf" "newtab" >}}Flexibility Characterization in Power Systems{{< /staticref >}}.  My main interest lies in developing new mathematical optimization methods for energy systems problems. I studies the optimal scheduling and planning of energy systems flexibility under uncertainty. </div>
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}

@@ -39,7 +39,7 @@ email: alvaro.gonzalez@skolkovotech.ru
 superuser: true
 highlight_name: true
 ---
-I obtained my Ph.D. in Engineering Systems at Skoltech in 2021 with a thesis titled s .{{< staticref "https://www.skoltech.ru/app/data/uploads/2021/10/thesis2.pdf" "newtab" >}}Flexibility Characterization in Power System{{< /staticref >}}.  
+I obtained my Ph.D. in Engineering Systems at Skoltech in 2021 with a thesis titled {{< staticref "https://www.skoltech.ru/app/data/uploads/2021/10/thesis2.pdf" "newtab" >}}Flexibility Characterization in Power Systems{{< /staticref >}}.  
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

@@ -33,7 +33,8 @@ publication: In *Handbook of Optimization in Electric Power Distribution Systems
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: In this chapter, we introduce an optimal stochastic operation
+  model for distribution systems with a non-ideal linear energy storage model.
 url_source: ""
 url_video: ""
 title: Distribution Power System Operation with Energy Storage and Renewable

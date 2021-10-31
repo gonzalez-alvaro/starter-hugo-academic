@@ -1,7 +1,7 @@
 ---
 title: Alvaro González
 role: ""
-avatar_filename: profile-pic.jpg
+avatar_filename: profilepic.jpg
 bio: My research interests include energy systems flexibility, stochastic
   optimization, energy economics and energy systems integration.
 interests:
